@@ -1,2 +1,2 @@
-# business-architecture-quickstarts
+# Business Architecture | Quickstarts
 💼 Business Architecture | Quickstarts 💼
